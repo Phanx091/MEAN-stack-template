@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img width="460" height="300" src="https://www.navabrinditsolutions.com/wp-content/uploads/2017/12/mean_stack-about-1.png">
+<img width="4300" height="250" src="https://www.navabrinditsolutions.com/wp-content/uploads/2017/12/mean_stack-about-1.png">
 <p>
 
 
