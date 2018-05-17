@@ -1,5 +1,9 @@
 
+
+
+<p align="center">
 [![MEAN.JS Logo](https://www.navabrinditsolutions.com/wp-content/uploads/2017/12/mean_stack-about-1.png)]
+<p>
 
 
 # MEAN-stack-template
