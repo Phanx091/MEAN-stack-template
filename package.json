@@ -1,0 +1,27 @@
+{
+  "name": "mean-stack-template",
+  "version": "1.0.0",
+  "description": "Basic boilerplate for MEAN-Stack-Application",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phanx091/MEAN-stack-template.git"
+  },
+  "author": "Jason Phan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phanx091/MEAN-stack-template/issues"
+  },
+  "homepage": "https://github.com/Phanx091/MEAN-stack-template#readme",
+  "dependencies": {
+    "angular": "^1.7.0",
+    "angular-route": "^1.7.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.1"
+  }
+}
