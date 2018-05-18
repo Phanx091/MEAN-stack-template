@@ -37,6 +37,8 @@ $ nodemon server/server
 -**Angular.js** : front-end framework
 -**Nodejs** : back-end platform / web framework
 
+## Dependencies
+
 ## Contribute
 Please create a pull request with your desired changes.
 
