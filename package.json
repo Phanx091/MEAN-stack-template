@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Phanx091/MEAN-stack-template#readme",
   "dependencies": {
     "angular": "^1.7.0",
+    "angular-material": "^1.1.9",
     "angular-route": "^1.7.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
